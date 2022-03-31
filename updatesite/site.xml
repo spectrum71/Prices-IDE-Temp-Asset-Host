@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.ovgu.featureide_3.8.1.202203291157.jar" id="de.ovgu.featureide" version="3.8.1.202203291157">
+      <category name="FeatureIDE Patch"/>
+   </feature>
+   <feature url="features/de.ovgu.featureide.featuremodeling_3.8.1.202203291157.jar" id="de.ovgu.featureide.featuremodeling" version="3.8.1.202203291157">
+      <category name="FeatureIDE Patch"/>
+   </feature>
+   <feature url="features/de.ovgu.featureide.core.winvmj.feature_1.1.0.202203291157.jar" id="de.ovgu.featureide.core.winvmj.feature" version="1.1.0.202203291157">
+      <category name="WinVMJ Composer"/>
+   </feature>
+   <feature url="features/uml.to.vmj.feature_1.0.0.202203291157.jar" id="uml.to.vmj.feature" version="1.0.0.202203291157">
+      <category name="UML to VMJ"/>
+   </feature>
+   <category-def name="UML to VMJ" label="UML to VMJ"/>
+   <category-def name="WinVMJ Composer" label="WinVMJ Composer"/>
+   <category-def name="FeatureIDE Patch" label="FeatureIDE Patch"/>
+</site>
